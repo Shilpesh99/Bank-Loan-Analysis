@@ -30,7 +30,7 @@ Dashboard 3 : Details
 - Objective : 
   - The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
-Step Involved :
+## Step Involved
 - Import Data into MS SQL Server.
 - Write some Queries to solve the Business Problem.
 - Connect Power BI with MS SQL Server.
