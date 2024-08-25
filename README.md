@@ -29,5 +29,5 @@ Dashboard 3 : Details
   - Need for a comprehensive Details Dashboard that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related issues. ID metrics and data points, enabling users to access critical information efficiently.
 - Objective : 
   - The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
-
+## Dashboard
 [Dashboard Image.pdf](https://github.com/Shilpesh99/Bank-Loan-Analysis/blob/daf18db0d32373ee40e141ef59a222521d913b47/Dashboard%20Image.pdf)
